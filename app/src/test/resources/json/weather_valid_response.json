@@ -1,0 +1,76 @@
+{
+  "now": 1542745289,
+  "now_dt": "2018-11-20T20:21:29.751Z",
+  "info": {
+    "lat": 11.353,
+    "lon": 34.324,
+    "url": "https://yandex.ru/pogoda/?lat=11.353&lon=34.324"
+  },
+  "fact": {
+    "temp": 29,
+    "feels_like": 30,
+    "icon": "skc_n",
+    "condition": "clear",
+    "wind_speed": 1.1,
+    "wind_gust": 3.7,
+    "wind_dir": "nw",
+    "pressure_mm": 710,
+    "pressure_pa": 947,
+    "humidity": 44,
+    "daytime": "n",
+    "polar": false,
+    "season": "autumn",
+    "obs_time": 1542744000
+  },
+  "forecast": {
+    "date": "2018-11-21",
+    "date_ts": 1542751200,
+    "week": 47,
+    "sunrise": "05:41",
+    "sunset": "17:15",
+    "moon_code": 15,
+    "moon_text": "growing-moon",
+    "parts": [
+      {
+        "part_name": "night",
+        "temp_min": 25,
+        "temp_max": 28,
+        "temp_avg": 27,
+        "feels_like": 27,
+        "icon": "skc_n",
+        "condition": "clear",
+        "daytime": "n",
+        "polar": false,
+        "wind_speed": 1.9,
+        "wind_gust": 8.3,
+        "wind_dir": "nw",
+        "pressure_mm": 710,
+        "pressure_pa": 947,
+        "humidity": 43,
+        "prec_mm": 0,
+        "prec_period": 360,
+        "prec_prob": 0
+      },
+      {
+        "part_name": "morning",
+        "temp_min": 25,
+        "temp_max": 36,
+        "temp_avg": 31,
+        "feels_like": 30,
+        "icon": "skc_d",
+        "condition": "clear",
+        "daytime": "d",
+        "polar": false,
+        "wind_speed": 2.4,
+        "wind_gust": 9.2,
+        "wind_dir": "n",
+        "pressure_mm": 711,
+        "pressure_pa": 948,
+        "humidity": 35,
+        "prec_mm": 0,
+        "prec_period": 360,
+        "prec_prob": 0
+      }
+    ]
+  }
+}
